@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pyaarmera
+- 👋 Hi, I’m @ax√2bc
 - 👀 I’m interested in you
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on anything 
